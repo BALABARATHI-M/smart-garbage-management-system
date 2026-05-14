@@ -1,0 +1,14 @@
+# Ignore uploaded complaint photos (personal data)
+uploads/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+
+# Ignore error logs
+*.log
+error_log
